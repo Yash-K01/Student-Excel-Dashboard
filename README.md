@@ -12,7 +12,6 @@ Educational institutions generate massive amounts of data. This dashboard solves
 ## 📸 Dashboard Preview
 
 ![Student Performance Dashboard](screenshots/dashboard-preview.png)
-*(Note: Upload your main dashboard screenshot to a folder named `screenshots` in this repository to display it here).*
 
 ## 🚀 Key Features & Visuals
 
